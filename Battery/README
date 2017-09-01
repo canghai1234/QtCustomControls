@@ -1,4 +1,6 @@
 
+../IMAGE/CstmBattery.png
+
 /*
  * use the follow function to set the MAX value of the battery, default is 100.
  *  void setMaxValue(const qreal &maxValue);
