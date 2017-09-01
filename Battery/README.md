@@ -1,6 +1,6 @@
 #CstmBattery
 
-![CstmBattery](http://github.com/canghai1234/QtCustomControls/raw/master/IMAGE/CstmBattery.png)
+![CstmBattery](../IMAGE/CstmBattery.png)
 
 
  <p> use the follow function to set the MAX value of the battery, default is 100.
