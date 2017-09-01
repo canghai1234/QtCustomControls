@@ -1,6 +1,6 @@
 #CstmRoundBattery
 
-![CstmBattery](../IMAGE/CstmRoundBattery.png)
+![CstmRoundBattery](../IMAGE/CstmRoundBattery.png)
 
 
  <p> use the follow function to set the MAX value of the battery, default is 100.
