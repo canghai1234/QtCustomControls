@@ -1,12 +1,11 @@
 # QtCustomControls
 Here are some custom controls , you can use it directly.
 
-* CstmBattery
-
+* CstmBattery<p>
 ![CstmBattery](/IMAGE/CstmBattery.png)  
 
-*CstmRoundBattery
+*CstmRoundBattery<p>
 ![CstmRoundBattery](/IMAGE/CstmRoundBattery.png)  
 
-*CstmChunkBattery
+*CstmChunkBattery<p>
 ![CstmChunkBattery](/IMAGE/CstmChunkBattery.png)  
