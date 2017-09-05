@@ -9,3 +9,5 @@ Here are some custom controls , you can use it directly.
 
 * CstmChunkBattery<p>
 ![CstmChunkBattery](/IMAGE/CstmChunkBattery.png)  
+
+* cs
