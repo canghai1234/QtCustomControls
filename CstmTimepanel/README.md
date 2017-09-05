@@ -1,5 +1,5 @@
 
-#CstmTimepanel
+# CstmTimepanel
 
 >use this class to construct a clock panel.
 
@@ -21,6 +21,7 @@ to set items color.
         item_IndicatorSecond,
     };
 ```
-##results:
+## results:
+
 ![CstmTimepanelpic1](../IMAGE/CstmTimepanelpic1.png)
 ![CstmTimepanelpic1](../IMAGE/CstmTimepanelpic2.png)
