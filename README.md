@@ -10,4 +10,9 @@ Here are some custom controls , you can use it directly.
 * CstmChunkBattery<p>
 ![CstmChunkBattery](/IMAGE/CstmChunkBattery.png)  
 
-* cs
+* CstmTimepanel
+![CstmTimepanel](/IMAGE/CstmTimepanelpic1.png)
+![CstmTimepanel](/IMAGE/CstmTimepanelpic2.png)
+
+* CstmWaveProgress
+![CstmWaveProgress](/IMAGE/CstmWaveProgress.png)
