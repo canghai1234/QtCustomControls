@@ -16,3 +16,6 @@ Here are some custom controls , you can use it directly.
 
 * CstmWaveProgress<p>
 ![CstmWaveProgress](/IMAGE/CstmWaveProgress.png)
+
+* CstmDoubleHandleSlider<p>
+![CstmDoubleHandleSlider](/IMAGE/CstmDoubleHandleSlider.png)
