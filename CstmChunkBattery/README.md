@@ -39,4 +39,4 @@
 <p> The function is setting the ration of the chunk and the space between the chunks,default is 5 ,if the value lower than 1, the value will chage to 1.
 
 	 void setChunkRatio(const qreal &chunkRatio);
-*/
+
