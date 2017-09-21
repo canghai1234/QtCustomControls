@@ -22,3 +22,6 @@ Here are some custom controls , you can use it directly.
 
 ## [CstmDoubleHandleSlider](https://github.com/canghai1234/QtCustomControls/tree/master/CstmDoubleHandleSlider)
 ![CstmDoubleHandleSlider](/IMAGE/CstmDoubleHandleSlider.png)
+
+## [CstmSliderSwitch](https://github.com/canghai1234/QtCustomControls/tree/master/CstmSliderSwitch)
+![CstmSliderSwitch](/IMAGE/CstmSliderSwitch.png)
