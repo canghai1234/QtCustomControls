@@ -19,7 +19,7 @@ CstmSliderSwitch::CstmSliderSwitch(QWidget *parent) : QWidget(parent)
     this->resize(120,80);
 }
 
-void CstmSliderSwitch::mousePressEvent(QMouseEvent * event)
+void CstmSliderSwitch::mouseReleaseEvent(QMouseEvent * event)
 {
     QPoint	cursorpos = event->pos();
     int		x = cursorpos.x();
@@ -37,7 +37,7 @@ void CstmSliderSwitch::mousePressEvent(QMouseEvent * event)
 
     repaint();
 
-    QWidget::mousePressEvent(event);
+    QWidget::mouseReleaseEvent(event);
 }
 
 void CstmSliderSwitch::paintEvent(QPaintEvent *event)

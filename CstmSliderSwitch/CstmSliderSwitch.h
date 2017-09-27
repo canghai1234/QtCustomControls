@@ -72,7 +72,7 @@ signals:
     void StateChanged(bool state);
 
 protected:
-    virtual void	mousePressEvent(QMouseEvent * event);
+    virtual void	mouseReleaseEvent(QMouseEvent * event);
     virtual void	paintEvent(QPaintEvent *event);
 
 protected:
