@@ -25,3 +25,6 @@ Here are some custom controls , you can use it directly.
 
 ## [CstmSliderSwitch](https://github.com/canghai1234/QtCustomControls/tree/master/CstmSliderSwitch)
 ![CstmSliderSwitch](/IMAGE/CstmSliderSwitch.png)
+
+## [CstmSlider](https://github.com/canghai1234/QtCustomControls/tree/master/CstmSlider)
+![CstmSlider](/IMAGE/CstmSlider.png)
