@@ -31,3 +31,6 @@ Here are some custom controls , you can use it directly.
 
 ## [CstmSpinButton](https://github.com/canghai1234/QtCustomControls/tree/master/CstmSpinButton)
 ![CstmSpinButton](/IMAGE/CstmSpinButton.png)
+
+## [CstmGroupButton](https://github.com/canghai1234/QtCustomControls/tree/master/CstmGroupButton)
+![CstmGroupButton](/IMAGE/CstmGroupButton.png)
