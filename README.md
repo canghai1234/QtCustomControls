@@ -28,3 +28,6 @@ Here are some custom controls , you can use it directly.
 
 ## [CstmSlider](https://github.com/canghai1234/QtCustomControls/tree/master/CstmSlider)
 ![CstmSlider](/IMAGE/CstmSlider.png)
+
+## [CstmSpinButton](https://github.com/canghai1234/QtCustomControls/tree/master/CstmSpinButton)
+![CstmSpinButton](/IMAGE/CstmSpinButton.png)
