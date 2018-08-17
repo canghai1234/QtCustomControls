@@ -34,3 +34,6 @@ Here are some custom controls , you can use it directly.
 
 ## [CstmGroupButton](https://github.com/canghai1234/QtCustomControls/tree/master/CstmGroupButton)
 ![CstmGroupButton](/IMAGE/CstmGroupButton.png)
+
+## [CstmSpeedPanel](https://github.com/canghai1234/QtCustomControls/tree/master/CstmSpeedPanel)
+![CstmSpeedPanel](/IMAGE/CstmSpeedPanel.png)
